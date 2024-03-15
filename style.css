@@ -1,2 +1,11 @@
-::backdrop : pink
-color : green
+body {
+    background-color: lightblue;
+  }
+
+  h1 {
+    background-color: green;
+  }
+   
+  p {
+    background-color: yellow;
+  }
